@@ -42,9 +42,6 @@ Installation
 To run the project locally, follow these steps:
 
 Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/diamond-price-prediction.git
 cd diamond-price-prediction
 Install the required Python packages:
 bash
